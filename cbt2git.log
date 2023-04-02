@@ -1,0 +1,10 @@
+2023-04-02 22:15:44.521137 - Initialized conversion of CBT155
+2023-04-02 22:15:44.601163 - Received CBT.V504.FILE155.PDS from FILE155.XMI 
+2023-04-02 22:15:44.603974 - Found @FILE155.txt (text/plain) in CBT.V504.FILE155.PDS, moved to PDS/@FILE155
+2023-04-02 22:15:44.605089 - Found ALL.rexx (text/plain) in CBT.V504.FILE155.PDS, moved to PDS/ALL
+2023-04-02 22:15:44.606230 - Found JUNK.rexx (text/plain) in CBT.V504.FILE155.PDS, moved to PDS/JUNK
+2023-04-02 22:15:44.607176 - Found QQ.rexx (text/plain) in CBT.V504.FILE155.PDS, moved to PDS/QQ
+2023-04-02 22:15:44.608180 - Found REXREF.rexx (text/plain) in CBT.V504.FILE155.PDS, moved to PDS/REXREF
+2023-04-02 22:15:44.609219 - Found REXXREF.rexx (text/plain) in CBT.V504.FILE155.PDS, moved to PDS/REXXREF
+2023-04-02 22:15:44.610180 - Found REXX8080.rexx (text/plain) in CBT.V504.FILE155.PDS, moved to PDS/REXX8080
+2023-04-02 22:15:44.611198 - Found SPLTJOIN.rexx (text/plain) in CBT.V504.FILE155.PDS, moved to PDS/SPLTJOIN
